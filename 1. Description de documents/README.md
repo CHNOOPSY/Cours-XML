@@ -28,7 +28,7 @@ En 1984, cherchant des applications pour le nouveau MacIntosh, Steve Jobs demand
 
 En 1991, Tim Berners-Lee annonce HTML, le langage de description des pages web, qui se situe dans la filiation de SGML. Ce dernier est pourtant trop complexe et trop eu tolérant. HTML ne comprte pas de spécification formelle.
 
-En 1992 praît HyTime, basé lui aussi sur SGML et permttant la représentation, axée sur une ligne de temps, de documents multimédia.
+En 1992 The HyTime, basé lui aussi sur SGML et permttant la représentation, axée sur une ligne de temps, de documents multimédia.
 
 En 1998, le web explose, mais SGML est un système beaucoup trop complexe. Le W3C reconnaît comme standard les travaux menés par Tim Bray et qui aboutissent à XML 1.0. XML reprend l'essentiel de SGML, mais supprime les _oveerloads_ : déclaration SGML, adoption d'Unicode, passage de la notion de document « valide » à « bien-formé ».
 
