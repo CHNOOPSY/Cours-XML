@@ -40,7 +40,7 @@ En 2009, Douglas Crockford introduit JSON, un format léger fondé sur JavaScrip
 
 # Synthèse
 
-Historiquement, on voit sonc se dessiner plusieurs manières de considérer ce qu'est un document.
+Historiquement, on voit donc se dessiner plusieurs manières de considérer ce qu'est un document.
 
 ## Par programme
 
