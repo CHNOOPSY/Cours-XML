@@ -55,7 +55,7 @@ La deuxième classe sépare le document de sont traitement et de sa présentatio
 * LaTeX
 * HTML
 
-## Priviléfier la smantique
+## Privilégier la smantique
 
 Une troisième approche met l'accent sur la sémantique des documents en permettant de créer son propre langage :
 * XML et tous les langages dérivés (RDF,RSS, etc.)
